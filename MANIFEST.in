@@ -1,0 +1,6 @@
+
+include README.md
+
+include flask_gist/templates/gist/gist.html
+
+recursive-include flask_gist/templates/gist *
