@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Flask-Gist',
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
     description='A simple flask extension to render Github Gists on template',
     long_description=open('README.md').read(),
